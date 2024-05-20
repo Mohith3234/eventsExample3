@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\EventsExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C3EE90-99D5-4EAA-8C2B-556CBEFB56EB}|EventsExample3\\EventsExample3.csproj|c:\\csharp\\eventsexample3\\eventsexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C3EE90-99D5-4EAA-8C2B-556CBEFB56EB}|EventsExample3\\EventsExample3.csproj|solutionrelative:eventsexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683027D6-E094-480F-B2C1-E9E86895F029}|ClassLibrary1\\ClassLibrary1.csproj|c:\\csharp\\eventsexample3\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683027D6-E094-480F-B2C1-E9E86895F029}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Csharp\\EventsExample3\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Csharp\\EventsExample3\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:20:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\EventsExample3\\EventsExample3\\Program.cs",
+              "RelativeDocumentMoniker": "EventsExample3\\Program.cs",
+              "ToolTip": "C:\\Csharp\\EventsExample3\\EventsExample3\\Program.cs",
+              "RelativeToolTip": "EventsExample3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:20:02.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
